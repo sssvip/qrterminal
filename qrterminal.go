@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"rsc.io/qr"
+	"github.com/sssvip/qr"
 )
 
 const WHITE = "\033[47m  \033[0m"
